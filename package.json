@@ -1,0 +1,16 @@
+{
+  "name": "catalystcareserver",
+  "version": "1.0.0",
+  "description": "a place to serve care plans",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "ijuhoor",
+  "license": "ISC"
+}
